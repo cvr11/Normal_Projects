@@ -6,7 +6,7 @@ public class Basic_Day1_Review {
 
 	public static void main(String[] args) {
 
-// in this am using {if_else, while, Do_while, arthamatic , logic, for, switch,String, arrays}
+// in this i am using {if_else, while, Do_while, arthamatic , logic, for, switch,String, arrays}
 		int i,j;
 		i=1;
 		j=5;
