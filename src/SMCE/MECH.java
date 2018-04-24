@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MECH extends SMCE_COLLEGE 
 {
 	
-	int std_id;
+	int std_id; // Local variable
 	String std_name;
 	String branch;
 	
